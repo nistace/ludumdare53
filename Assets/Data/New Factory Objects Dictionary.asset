@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1067d52558114d9ba6c150ef5be05d19, type: 3}
+  m_Name: New Factory Objects Dictionary
+  m_EditorClassIdentifier: 
+  _belts:
+  - {fileID: 11400000, guid: 360c2261d2d17c74eb84232ea73e9cb2, type: 2}
+  - {fileID: 11400000, guid: c33b3055dd57d69448d311522aa901a2, type: 2}
+  - {fileID: 11400000, guid: fd42188cb6cc10346bfebd7ad778c404, type: 2}
+  - {fileID: 11400000, guid: 4dfd03c9f90abac43b8fed0ec27a77b3, type: 2}
+  _inputMachinePrefab: {fileID: 8696514059275045032, guid: 541265089e199c54199deb82e7ed0068, type: 3}
+  _outputMachinePrefab: {fileID: 7481211863535616789, guid: 81b1e933f629e4141abbd76f6647019e, type: 3}

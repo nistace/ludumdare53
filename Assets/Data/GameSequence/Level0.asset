@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30210d1d3b3b4aac994fa86a569031d1, type: 3}
+  m_Name: Level0
+  m_EditorClassIdentifier: 
+  _gridMin: {x: -16, y: -1}
+  _gridMax: {x: 9, y: 4}
+  _initialBelts: []
+  _allowBeltPlacement: 1
+  _availableMachineCounts: []
+  _inputs:
+  - _color: {r: 0, g: 0.9056604, b: 0.6814704, a: 1}
+    _position: {x: -17, y: 4}
+  - _color: {r: 0.5881688, g: 0, b: 0.90588236, a: 1}
+    _position: {x: -17, y: 2}
+  _outputs:
+  - _color: {r: 0.8679245, g: 0.79919964, b: 0, a: 1}
+    _position: {x: 10, y: 2}
+  - _color: {r: 0.8666667, g: 0, b: 0.2753486, a: 1}
+    _position: {x: 10, y: 3}
